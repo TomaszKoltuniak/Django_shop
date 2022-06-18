@@ -1,0 +1,11 @@
+Django shop
+
+Django installation and blank subpages
+Products web scraping and database
+Filtering and sorting of products
+Accounts and settings
+
+terminal commands:
+django-admin startproject name
+python manage.py runserver
+python manage.py startapp name
